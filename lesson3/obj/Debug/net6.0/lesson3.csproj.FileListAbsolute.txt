@@ -1,0 +1,15 @@
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\bin\Debug\net6.0\lesson3.exe
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\bin\Debug\net6.0\lesson3.deps.json
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\bin\Debug\net6.0\lesson3.runtimeconfig.json
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\bin\Debug\net6.0\lesson3.dll
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\bin\Debug\net6.0\lesson3.pdb
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.csproj.AssemblyReference.cache
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.AssemblyInfoInputs.cache
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.AssemblyInfo.cs
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.dll
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\refint\lesson3.dll
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.pdb
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\lesson3.genruntimeconfig.cache
+C:\Users\pvb07\Desktop\Git_Educ\C#lections\lesson3\obj\Debug\net6.0\ref\lesson3.dll
